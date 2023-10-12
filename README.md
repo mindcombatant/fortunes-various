@@ -20,4 +20,6 @@
 
 [Trails Empty Chests](trailschests) are the humourous messages you get when you check empty chests in the English releases of the *Trails* RPG series, sourced from [these lists on the Kiseki fandom wiki](https://kiseki.fandom.com/wiki/Lists_of_treasure_chests). I specifically excluded all [Trails in the Chest](https://kiseki.fandom.com/wiki/Trails_in_the_Chest)/[Part 2](https://kiseki.fandom.com/wiki/Trails_in_the_Chest,_Part_2) content, as I felt it didn't fit well as a fortune. I have done a little bit of work to remove duplicates, though it is entirely possible i missed some.
 
+[Jargon File](jargon) are entries in the 4.2.0 version of [the Jargon File](http://www.jargon.org/) by Eric S. Raymond <esr@thyrsus.com>, originally converted to fortune(6) file format by Rob Kaper <cap@capsi.cx>, archived [here](https://web.archive.org/web/20010409061912/http://cx.capsi.com/code-jargonfortunes.html), and thus, is actually licenced under the [GPL](GPL). I've done some small work to clean up some messy formatting that seems to have resulted from the conversion process.
+
 If you find any errors or have any improvements you want to make, **pull requests are welcome!**
