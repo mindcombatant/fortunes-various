@@ -4,11 +4,15 @@
 
 [Blubb-O's Drive-Thru Whale](blubbos) is a collection of non sequitur quotes from the "character" in Homestar Runner that I got by searching through each page in [the Homestar Runner Wiki's list of appearances](http://www.hrwiki.org/wiki/Category:Drive-Thru_Whale_Filmography) for dialogue, as well as quickly going through and transcribing the lines from each Strong Bad's Cool Game for Attractive People episode, with a bit of creative liberty for the lines that are more of a dialogue.
 
+[Senor Cardgage](cardgage) is a collection of non sequitur quotes from the "character" in Homestar Runner that I got by searching through each page in [the Homestar Runner Wiki's list of appearances](http://www.hrwiki.org/wiki/Category:Senor_Cardgage_Filmography) for dialogue.
+
 [D4 Fortune Cookies](d4) are messages that you can get from the fortune cookies in [D4: Dark Dreams Don't Die](https://store.steampowered.com/app/358090/D4_Dark_Dreams_Dont_Die_Season_One/) according to [this achievement guide](https://www.trueachievements.com/viewcomment.aspx?commentid=851769).
 
 [Homsar](homsar) is a collection of non sequitur quotes from the character in Homestar Runner that I got by searching through each page in [the Homestar Runner Wiki's list of appearances](http://www.hrwiki.org/wiki/Category:Homsar_Filmography) for dialogue.
 
 [Homestar Runner Fortune Cookies](hsr) are messages you can get from the fortune cookies in the [Homestar Runner Fortune Cookie "game"](https://homestarrunner.com/fortune) according to [the corresponding Homestar Runner Wiki page](http://www.hrwiki.org/wiki/Fortune_Cookies#List_of_Fortunes).
+
+[Jargon File](jargon) are entries in the 4.2.0 version of [the Jargon File](http://www.jargon.org/) by Eric S. Raymond <esr@thyrsus.com>, originally converted to fortune(6) file format by Rob Kaper <cap@capsi.cx>, archived [here](https://web.archive.org/web/20010409061912/http://cx.capsi.com/code-jargonfortunes.html), and thus, is actually licenced under the [GPL](GPL). I've done some small work to clean up some messy formatting that seems to have resulted from the conversion process.
 
 [Katrina's Words of Wisdom](katrina) are messages from the fortune telling panther Katrina on the NookLink Animal Crossing: New Horizons companion "app" in the Nintendo Switch Online smartphone app, according to [the Nookipedia entry on the subject](https://nookipedia.com/wiki/Katrina/Words_of_Wisdom).
 
@@ -19,7 +23,5 @@
 [Pratchett Quote File](pqf) is just [the Terry Pratchett Quote File](https://www.lspace.org/books/pqf/), but in fortune file format.
 
 [Trails Empty Chests](trailschests) are the humourous messages you get when you check empty chests in the English releases of the *Trails* RPG series, sourced from [these lists on the Kiseki fandom wiki](https://kiseki.fandom.com/wiki/Lists_of_treasure_chests). I specifically excluded all [Trails in the Chest](https://kiseki.fandom.com/wiki/Trails_in_the_Chest)/[Part 2](https://kiseki.fandom.com/wiki/Trails_in_the_Chest,_Part_2) content, as I felt it didn't fit well as a fortune. I have done a little bit of work to remove duplicates, though it is entirely possible i missed some.
-
-[Jargon File](jargon) are entries in the 4.2.0 version of [the Jargon File](http://www.jargon.org/) by Eric S. Raymond <esr@thyrsus.com>, originally converted to fortune(6) file format by Rob Kaper <cap@capsi.cx>, archived [here](https://web.archive.org/web/20010409061912/http://cx.capsi.com/code-jargonfortunes.html), and thus, is actually licenced under the [GPL](GPL). I've done some small work to clean up some messy formatting that seems to have resulted from the conversion process.
 
 If you find any errors or have any improvements you want to make, **pull requests are welcome!**
