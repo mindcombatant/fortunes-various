@@ -10,6 +10,8 @@
 
 [D4 Fortune Cookies](d4) are messages that you can get from the fortune cookies in [D4: Dark Dreams Don't Die](https://store.steampowered.com/app/358090/D4_Dark_Dreams_Dont_Die_Season_One/) according to [this achievement guide](https://www.trueachievements.com/viewcomment.aspx?commentid=851769).
 
+[Fact Sphere Facts](factsphere) are quotes from the minor Portal 2 character known as the Fact Sphere, taken from [The Unofficial Portal Wiki](https://theportalwiki.com/wiki/List_of_Fact_Sphere_facts), which in turn extracted and transcribed the voice files from the Valve game Portal 2.
+
 [Homsar](homsar) is a collection of non sequitur quotes from the character in Homestar Runner that I got by searching through each page in [the Homestar Runner Wiki's list of appearances](http://www.hrwiki.org/wiki/Category:Homsar_Filmography) for dialogue.
 
 [Homestar Runner Fortune Cookies](hsr) are messages you can get from the fortune cookies in the [Homestar Runner Fortune Cookie "game"](https://homestarrunner.com/fortune) according to [the corresponding Homestar Runner Wiki page](http://www.hrwiki.org/wiki/Fortune_Cookies#List_of_Fortunes).
