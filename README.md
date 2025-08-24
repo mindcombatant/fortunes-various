@@ -6,6 +6,8 @@
 
 [Senor Cardgage](cardgage) is a collection of non sequitur quotes from the "character" in Homestar Runner that I got by searching through each page in [the Homestar Runner Wiki's list of appearances](http://www.hrwiki.org/wiki/Category:Senor_Cardgage_Filmography) for dialogue.
 
+[Chansey's Fortune Cookie Channel](chansey) are the various fortune cookie fortunes from [Pokémon Channel](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Channel), transcribed from the [debug menus of the PAL version](https://tcrf.net/Pok%C3%A9mon_Channel/Debug_Menus) by hand because I didn't see anyone else having already done it.
+
 [Crichtonisms](crichtonisms) are quotes from the Farscape TV show by the character John Crichton that often reference Earth pop culture. These are sourced from [this archived web page](https://web.archive.org/web/20070203041442/http://www.crichtonisms.com/crichtonisms.shtml). Currently, I have only added quotes for Season 1, more will be added later.
 
 [D4 Fortune Cookies](d4) are messages that you can get from the fortune cookies in [D4: Dark Dreams Don't Die](https://store.steampowered.com/app/358090/D4_Dark_Dreams_Dont_Die_Season_One/) according to [this achievement guide](https://www.trueachievements.com/viewcomment.aspx?commentid=851769).
