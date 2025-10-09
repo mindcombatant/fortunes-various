@@ -18,4 +18,4 @@ install:
 	-install -m 644 -o root -g root $(shell ls -1 | egrep -v '\.~|README|Makefile|bin|LICENSE') $(shell if [ -n "$FORTUNE_PATH" -a -d "$FORTUNE_PATH" ]; then echo "$FORTUNE_PATH"; else echo "/usr/share/games/fortunes"; fi)
 
 clean:
-	trash-put *~ || rm *~ || :
+	trash-put -f *~ || rm -f *~ || :
