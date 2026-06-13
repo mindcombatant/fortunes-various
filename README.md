@@ -20,7 +20,8 @@
 
 [Jargon File](jargon) are entries in the 4.2.0 version of [the Jargon File](http://www.jargon.org/) by Eric S. Raymond <esr@thyrsus.com>, originally converted to fortune(6) file format by Rob Kaper <cap@capsi.cx>, archived [here](https://web.archive.org/web/20010409061912/http://cx.capsi.com/code-jargonfortunes.html), and thus, is actually licenced under the [GPL](GPL). I've done some small work to clean up some messy formatting that seems to have resulted from the conversion process.
 
-[Katrina's Words of Wisdom](katrina) are messages from the fortune telling panther Katrina on the NookLink Animal Crossing: New Horizons companion "app" in the Nintendo Switch Online smartphone app, according to [the Nookipedia entry on the subject](https://nookipedia.com/wiki/Katrina/Words_of_Wisdom).
+[Katrina's Words of Wisdom](katrinaApp) are messages from the fortune telling panther Katrina on the NookLink Animal Crossing: New Horizons companion "app" in the Nintendo Switch Online smartphone app, according to [the Nookipedia entry on the subject](https://nookipedia.com/wiki/Katrina/Words_of_Wisdom).
+[Katrina's eReader Fortune Telling Deluxe](katrinaEReader) are a few generated messages from Katrina in the Animal Crossing eReader programs stored on Girl 7 and 8, Fortune Telling A and B, combined into a single fortune file. There's more info availible on this process and how to make your own in [katrinaEReader.d](katrinaEReader.d).
 
 [Kirby's Star Fortune](kirbyStarFortune) are posts from the "Nintendo Today!" smartphone app's "Kirby's Star Fortune" series as sourced from [the WiKirby list on the subject](https://wikirby.com/wiki/Nintendo_Today!/Kirby%27s_Star_Fortune)
 
